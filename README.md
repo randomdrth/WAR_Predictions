@@ -34,8 +34,6 @@ The following need to be installed locally in order to explore the project:
 
 All of the data used in the project will be downloaded using the 'pybaseball' package
 
-# Takeaways and Next Steps
-
 ## Results
 
 * The initial model showed a reasonable accuracy but struggled with players having limited historical data or coming off injuries
