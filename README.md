@@ -12,7 +12,7 @@ This project attempts to predict a baseball player's Wins Above Replacement (WAR
 
 ## Code
 
-You can find all of the code necessary for the project [here]
+You can find all of the code necessary for the project [here](https://github.com/randomdrth/WAR_Predictions/blob/main/war_predictions.ipynb)
 
 Files:
 
